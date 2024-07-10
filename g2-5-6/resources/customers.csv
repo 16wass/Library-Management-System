@@ -1,0 +1,4 @@
+id,name,lastName,paymentStatus,numberOfBooksCurrentlyBorrowed
+1,John,Doe,paid,0
+2,Jane,Smith,due,1
+3,Bob,Johnson,paid,2

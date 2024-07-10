@@ -1,0 +1,11 @@
+title,author,year,id,borrowed,customerId,publisher
+Title1,Author1,2001,1234,false,1,publisher1
+Title2,Author2,2002,1235,true,2,publisher2
+Title3,Author3,2003,1236,false,3,publisher3
+
+
+
+
+
+
+
